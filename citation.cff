@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you're utilizing this software, please citate in the next way:"
+title: "TTV-Tool"
+version: "0.1.0"
+date-released: "2024-12-17"
+authors:
+  - name: "SM0NKY_"
+keywords:
+  - Twitch
+  - Bot
+  - Python
+  - Streaming
+license: "MIT"
+repository-code: "https://github.com/SM0NKY/TTV-Tool"
